@@ -1,6 +1,12 @@
 # Background
 I'm an embedded systems engineer with a degree in electrical engineering. 
 
+# Hobbies
+My hobbies tend to be related to my work. My favorite projects have to do with data, from logging to processing and displaying. My hobbies include:
+- Embedded System Design
+- Home Networking and Servers
+- Antennas and Wireless Communications
+
 # Experience
 MCUs
 - AVR
