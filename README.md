@@ -1,24 +1,23 @@
-# Background
-I'm an embedded systems engineer with a degree in electrical engineering. 
+# Background 
+A Lead Electrical Engineer with a degree in electrical engineering.
 
 # Hobbies
-My hobbies tend to be related to my work. My favorite projects have to do with data, from logging to processing and displaying. My hobbies include:
-- Embedded System Design
-- Home Networking and Servers
-- Antennas and Wireless Communications
+My hobbies tend to be related to my work with my favorite topic being wireless communications.
 
 # Experience
-MCUs
-- AVR
-- PIC
+- Server Administration 
+- Low Level Embedded Systems
+- Electronics Hardware Design 
+- Radio and Wireless Propagation 
 
 Languages
 - C++
 - C
+- C#
 - MicroPython
-- Little HTML
-- Little CSS
-- Little PHP
+- HTML
+- CSS
+- PHP
 - Bash
 - Visual Basic
 
